@@ -47,8 +47,7 @@ I’m a Year 2 Computer Science student at the National University of Singapore 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joulenergy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Joulenergy&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joulenergy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=joulenergy)
+![Top Languages](https://ghstats.dev/api/langs?username=joulenergy&max_langs=12)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
