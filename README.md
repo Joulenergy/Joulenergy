@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Year 2 Computer Science student at the National University of Singapore 🎓, passionate about building technology that creates meaningful, positive impact in people’s lives. 🌍✨ <br>I like experimenting with new technologies, learning by building 🛠️, and turning ideas into working prototypes.<br><br>I work across the full stack and enjoy working with data 📊, from building user-friendly interfaces 🎨 to designing systems that turn messy real-world information into meaningful insights.🔍<br>Always open to collaboration 🤝, learning opportunities 📚, and interesting technical challenges ⚡!
+I’m a Year 3 Computer Science student at the National University of Singapore 🎓, passionate about building technology that creates meaningful, positive impact in people’s lives. 🌍✨ <br>I like experimenting with new technologies, learning by building 🛠️, and turning ideas into working prototypes.<br><br>I work across the full stack and enjoy working with data 📊, from building user-friendly interfaces 🎨 to designing systems that turn messy real-world information into meaningful insights.🔍<br>Always open to collaboration 🤝, learning opportunities 📚, and interesting technical challenges ⚡!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joulenehuang) 
